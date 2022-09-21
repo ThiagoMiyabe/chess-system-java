@@ -1,1 +1,1 @@
-# chess-system-java
+# Project: chess system | Coded during java course udemy
